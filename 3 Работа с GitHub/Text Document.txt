@@ -1,0 +1,15 @@
+https://git-scm.com/book/en/v2?classId=5dedcb26-1fa9-4bab-ac05-801b16d703bf
+
+https://smartiqa.ru/courses/git?classId=5dedcb26-1fa9-4bab-ac05-801b16d703bf
+
+https://habr.com/ru/articles/541258/?classId=5dedcb26-1fa9-4bab-ac05-801b16d703bf
+
+https://habr.com/ru/articles/542616/?classId=5dedcb26-1fa9-4bab-ac05-801b16d703bf
+
+https://for-each.dev/lessons/b/-git-guide?ysclid=ls78ljyow2360764901&classId=5dedcb26-1fa9-4bab-ac05-801b16d703bf
+
+https://devmark.ru/article/git-console-commands?classId=5dedcb26-1fa9-4bab-ac05-801b16d703bf
+
+https://habr.com/ru/companies/ruvds/articles/599929/?classId=5dedcb26-1fa9-4bab-ac05-801b16d703bf
+
+https://www.atlassian.com/ru/git/tutorials/syncing/git-fetch

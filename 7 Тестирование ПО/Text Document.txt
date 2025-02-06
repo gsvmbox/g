@@ -1,0 +1,3 @@
+https://atrotsenko.hashnode.dev/kak-sozdat-yunit-test-qttest-v-srede-razrabotki-qtcreator?classId=5dedcb26-1fa9-4bab-ac05-801b16d703bf
+
+http://qt-doc.ru/test-qt.html
